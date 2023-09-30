@@ -47,6 +47,7 @@
 *.cmd
 .tmp_versions/
 .dist
+.output
 .vscode
 modules.order
 Module.symvers
